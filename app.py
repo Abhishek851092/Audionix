@@ -112,6 +112,15 @@ def ui():
                 🔇 Remove Silence From Audio
             </h1>
 
+            <p style="margin:8px 0 12px;">
+                <a href="https://colab.research.google.com/github/NeuralFalconYT/Remove-Silence-From-Audio/blob/main/Remove_Silence_From_Audio.ipynb"
+                   target="_blank"
+                   style="text-decoration:none;">
+                    <img src="https://colab.research.google.com/assets/colab-badge.svg"
+                         alt="Open In Colab" />
+                </a>
+            </p>
+
             <p style="font-size:1.05em; color:#555; margin:0 0 10px;">
                 Upload an MP3 or WAV file, and it will remove silent parts from it.
             </p>
